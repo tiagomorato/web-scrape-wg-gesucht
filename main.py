@@ -60,7 +60,8 @@ def greet(message):
 
             try:
                 data = [data_id, title, address, price, size, flatmate, available, online, author, link]
-                query = 'INSERT INTO wg_berlin(data_id, title, address, price, size, flatmate, available, on_since, author, link) ' \
+                query = 'INSERT INTO wg_berlin(data_id, title, address, price, size, ' \
+                        'flatmate, available, on_since, author, link) ' \
                         'VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)'
                 res = db_query(query, data)
 
@@ -90,5 +91,3 @@ if __name__ == '__main__':
         db_create_table()
 
     bot.polling(non_stop=True)
-
-
