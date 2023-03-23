@@ -1,3 +1,4 @@
+# Table of contents
 - [Web Scraping WG-Gesucht](#web-scraping-wg-gesucht)
   * [Description](#description)
   * [How to use](#how-to-use)
