@@ -2,7 +2,6 @@ import os
 import mysql.connector
 from dotenv import load_dotenv
 
-
 load_dotenv()
 
 
@@ -37,7 +36,7 @@ def db_query(query: str, parameters=False) -> list:
         else:
             result = cursor.rowcount
 
-        print("Rows affected: ", result)
+        # print("Rows affected: ", result)
 
         connection.commit()
         cursor.close()
