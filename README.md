@@ -2,6 +2,7 @@
 - [Web Scraping WG-Gesucht](#web-scraping-wg-gesucht)
   * [Description](#description)
   * [How to use](#how-to-use)
+  * [Visual](#visual)
   * [Limitations](#limitations)
   * [Future improvements](#future-improvements)
     + [Message length](#message-length)
@@ -16,7 +17,7 @@ Looking for a shared flat or WG-Gesucht can be a tedious and time-consuming task
 ## How to use
  To use this bot, first change the variables for the database and your Telegram bot's API key in the .env file. The default URL is set for Berlin's page, but you can change it to your target city. If the CREATE_TABLE variable in main.py is set to True, a table named wg_berlin will be automatically created if it does not already exist. Then, go to your bot's chat and type \wg_berlin to get the latest posts.
  
-## Visuals
+## Visual
 ![Telegram Bot message](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/img-telebot1.jpg)
 
 ## Future improvements
