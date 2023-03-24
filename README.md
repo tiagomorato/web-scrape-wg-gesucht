@@ -8,6 +8,7 @@
     + [Message length](#message-length)
     + [Filters](#filters)
     + [Automatize](#automatize)
+  * [Data Visualization](#data-visualization)
 
 # Web Scraping WG-Gesucht
 
@@ -30,3 +31,6 @@ Adding filters for each category (Flatmate, Rent, m^2, District, Availability, e
 
 ### Automatization
 In this version, users must always type \wg_berlin to check for new announcements. A better approach would be to implement a feature that periodically checks for new posts and sends them to users automatically.
+
+## Data Visualization
+TODO
