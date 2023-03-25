@@ -33,4 +33,7 @@ Adding filters for each category (Flatmate, Rent, m^2, District, Availability, e
 In this version, users must always type \wg_berlin to check for new announcements. A better approach would be to implement a feature that periodically checks for new posts and sends them to users automatically.
 
 ## Data Visualization
-TODO
+![Barplot](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/barplot.png)
+![Scatterplot](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot.png)
+![Scatterplot per district](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot-per-district.png)
+
