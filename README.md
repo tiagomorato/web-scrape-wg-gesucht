@@ -42,10 +42,10 @@ In this version, users must always type \wg_berlin to check for new announcement
 ![Barplot](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/barplot.png)
 
 ### Scatterplot 1
-![Scatterplot 1](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot.jpg)
+![Scatterplot 1](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot.png)
 
 ### Scatterplot 2
-![Scatterplot 2](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot-per-district.jpg)
+![Scatterplot 2](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot-per-district.png)
 
 ### Plotly Dashboard
 ![Plotly Dashboard](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/plotly-dashboard.jpg)
