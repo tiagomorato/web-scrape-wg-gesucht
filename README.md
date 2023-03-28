@@ -9,6 +9,10 @@
     + [Filters](#filters)
     + [Automatize](#automatize)
   * [Data Visualization](#data-visualization)
+    + [Barplot](#barplot)
+    + [Scatterplot 1](#scatterplot-1)
+    + [Scatterplot 2](#scatterplot-2)
+    + [Plotly Dashboard](#plotly-dashboard)
 
 # Web Scraping WG-Gesucht
 
@@ -33,7 +37,15 @@ Adding filters for each category (Flatmate, Rent, m^2, District, Availability, e
 In this version, users must always type \wg_berlin to check for new announcements. A better approach would be to implement a feature that periodically checks for new posts and sends them to users automatically.
 
 ## Data Visualization
-![Barplot](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/barplot.png)
-![Scatterplot](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot.png)
-![Scatterplot per district](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot-per-district.png)
 
+### Barplot
+![Barplot](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/barplot.png)
+
+### Scatterplot 1
+![Scatterplot 1](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot.jpg)
+
+### Scatterplot 2
+![Scatterplot 2](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/scatterplot-per-district.jpg)
+
+### Plotly Dashboard
+![Plotly Dashboard](https://github.com/tiagomorato/web-scrape-wg-gesucht/blob/main/img/plotly-dashboard.jpg)
