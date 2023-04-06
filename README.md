@@ -18,12 +18,14 @@
 # Web Scraping WG-Gesucht
 
 ## Tech Stack
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python Logo" width="40" height="40" style="max-width: 100%;" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL Logo" width="40" height="40" style="max-width: 100%;" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML Logo" width="40" height="40" style="max-width: 100%;" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3 Logo" width="40" height="40" style="max-width: 100%;" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku Logo" width="40" height="40" style="max-width: 100%;" />
-
+<div style="inline-block">
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python Logo" width="100" height="100" style="max-width: 100%;" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL Logo" width="100" height="100" style="max-width: 100%;" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML Logo" width="100" height="100" style="max-width: 100%;" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3 Logo" width="100" height="100" style="max-width: 100%;" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg" title="Heroku" alt="Heroku Logo" width="100" height="100" style="max-width: 100%;" />
+</div>
+ 
 ## Description
 Looking for a shared flat or WG-Gesucht can be a tedious and time-consuming task of constantly refreshing the page and scrolling through each post. This Telegram Bot streamlines the process by iteratively scraping each post from a given link's main page, adding it to a MySQL database, and sending a message to your Telegram Bot chat containing the new posts and their relevant information.
  
