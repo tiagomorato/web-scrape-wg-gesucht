@@ -1,5 +1,6 @@
 # Table of contents
 - [Web Scraping WG-Gesucht](#web-scraping-wg-gesucht)
+  * [Tech Stack](#tech-stack)
   * [Description](#description)
   * [How to use](#how-to-use)
   * [Visual](#visual)
@@ -15,6 +16,14 @@
     + [Plotly Dashboard](#plotly-dashboard)
 
 # Web Scraping WG-Gesucht
+
+## Tech Stack
+![Python Logo](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
+![MySQL Logo](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg)
+![HTML Logo](https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg)
+![CSS Logo](https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg)
+![Heroku Logo](https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-plain-wordmark.svg)
+
 
 ## Description
 Looking for a shared flat or WG-Gesucht can be a tedious and time-consuming task of constantly refreshing the page and scrolling through each post. This Telegram Bot streamlines the process by iteratively scraping each post from a given link's main page, adding it to a MySQL database, and sending a message to your Telegram Bot chat containing the new posts and their relevant information.
